@@ -1,4 +1,4 @@
-## About Me
+## <img src="./assets/icons/user.svg" alt="User" width="28" height="28" align="center" /> About Me
 
 - My name is **Kayn**.
 - I am a **software engineering student**.
@@ -8,7 +8,7 @@
 
 ---
 
-## GitHub Highlights
+## <img src="./assets/icons/star.svg" alt="Star" width="28" height="28" align="center" /> GitHub Highlights
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=KurodaKayn&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
@@ -21,7 +21,7 @@
 
 ---
 
-## Tech Stack
+## <img src="./assets/icons/layers.svg" alt="Layers" width="28" height="28" align="center" /> Tech Stack
 
 ### Frontend Technologies
 
@@ -75,7 +75,7 @@
 
 ---
 
-## Learning Tools
+## <img src="./assets/icons/book-open.svg" alt="Book" width="28" height="28" align="center" /> Learning Tools
 
 - <img src="./assets/icons/notion.svg" alt="Notion" width="18" height="18" align="center" /> **Notion** — The best productivity software. I use it to set up my to-do lists (scheduling), record my study notes, and organize my project materials.
 - <img src="./assets/icons/obsidian.svg" alt="Obsidian" width="18" height="18" align="center" /> **Obsidian** — My second brain, used to build network connections of knowledge, and also taught me how to write Markdown.
@@ -83,3 +83,7 @@
 - <img src="./assets/icons/gemini.svg" alt="Gemini" width="18" height="18" align="center" /> **Gemini** — In this AI era, LLM has become an indispensable learning companion. Many AIs can complete daily tasks, but when it comes to literature review, Gemini is undoubtedly the best.
 
 ---
+
+## <img src="./assets/icons/globe.svg" alt="Globe" width="28" height="28" align="center" /> Blog
+
+If you'd like to learn more about me, you can open this link: [https://kurodakayn.xyz/intro](https://kurodakayn.xyz/intro)
