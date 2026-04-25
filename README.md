@@ -60,4 +60,4 @@
 
 ## <img src="./assets/icons/globe.svg" alt="Globe" width="28" height="28" align="center" /> Blog
 
-If you'd like to learn more about me, you can open this link: [https://kurodakayn.xyz/intro](https://kurodakayn.xyz/intro)
+If you'd like to learn more about me, you can open this link: [https://kurodakayn.xyz](https://kurodakayn.xyz)
