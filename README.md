@@ -38,7 +38,13 @@
 ### Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,docker,figma,bun,jest" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,bun,jest,vitest" />
+</p>
+
+### Dev Ops
+
+<p>
+  <img src="https://skillicons.dev/icons?i=githubactions,docker" />
 </p>
 
 ### Game Development
