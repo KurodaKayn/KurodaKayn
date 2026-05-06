@@ -57,10 +57,10 @@
 
 ## <img src="./assets/icons/book-open.svg" alt="Book" width="28" height="28" align="center" /> Learning Tools
 
-- <img src="https://skillicons.dev/icons?i=notion" width="18" height="18" align="center" /> **Notion** — The best productivity software. I use it to set up my to-do lists (scheduling), record my study notes, and organize my project materials.
-- <img src="https://skillicons.dev/icons?i=obsidian" width="18" height="18" align="center" /> **Obsidian** — My second brain, used to build network connections of knowledge, and also taught me how to write Markdown.
-- <img src="./assets/icons/anki.svg" width="18" height="18" align="center" /> **Anki** — Spaced repetition software that helps me efficiently memorize knowledge points and English vocabulary.
-- <img src="./assets/icons/gemini.svg" height="18" align="center" /> **Gemini** — In this AI era, LLM has become an indispensable learning companion. Many AIs can complete daily tasks, but when it comes to literature review, Gemini is undoubtedly the best.
+- <img src="https://skillicons.dev/icons?i=notion" width="18" height="18" align="center" /> **Notion** <br /> The best productivity software. I use it to set up my to-do lists (scheduling), record my study notes, and organize my project materials.
+- <img src="https://skillicons.dev/icons?i=obsidian" width="18" height="18" align="center" /> **Obsidian** <br /> My second brain, used to build network connections of knowledge, and also taught me how to write Markdown.
+- <img src="./assets/icons/anki.svg" width="18" height="18" align="center" /> **Anki** <br /> Spaced repetition software that helps me efficiently memorize knowledge points and English vocabulary.
+- <img src="./assets/icons/gemini.svg" height="18" align="center" /> **Gemini** <br /> In this AI era, LLM has become an indispensable learning companion. Many AIs can complete daily tasks, but when it comes to literature review, Gemini is undoubtedly the best.
 
 ---
 
