@@ -12,6 +12,9 @@
 
 <div align="center">
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=KurodaKayn&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+</div>
+
+<div align="center">
   <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KurodaKayn&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
 </div>
 
