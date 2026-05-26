@@ -55,6 +55,19 @@
 
 ---
 
+## <img src="./assets/icons/git-nocolor.svg" alt="Git" width="28" height="28" align="center" /> Open Source Contributions
+
+- **[React](https://github.com/facebook/react)** : [#36429](https://github.com/facebook/react/pull/36429)
+- **[Dify](https://github.com/langgenius/dify)** : [#36125](https://github.com/langgenius/dify/pull/36125), [#36392](https://github.com/langgenius/dify/pull/36392)
+- **[Next.js](https://github.com/vercel/next.js)** : [#93645](https://github.com/vercel/next.js/pull/93645)
+- **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** : [#26577](https://github.com/google-gemini/gemini-cli/pull/26577)
+- **[Zed](https://github.com/zed-industries/zed)**: [#55549](https://github.com/zed-industries/zed/pull/55549)
+- **[Mastra](https://github.com/mastra-ai/mastra)** : [#15780](https://github.com/mastra-ai/mastra/pull/15780)
+- **[Easydict](https://github.com/tisfeng/Easydict)**: [#1162](https://github.com/tisfeng/Easydict/pull/1162), [#1181](https://github.com/tisfeng/Easydict/pull/1181), [#1184](https://github.com/tisfeng/Easydict/pull/1184)
+- **[Plane](https://github.com/makeplane/plane-mcp-server)**: [#39](https://github.com/makeplane/plane-mcp-server/pull/39)
+
+---
+
 ## <img src="./assets/icons/globe.svg" alt="Globe" width="28" height="28" align="center" /> Blog
 
 If you'd like to learn more about me, you can open this link: [https://kurodakayn.xyz](https://kurodakayn.xyz)
