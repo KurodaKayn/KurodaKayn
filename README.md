@@ -26,7 +26,7 @@
 ### Frontend Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,nuxtjs,astro,vite,tauri,tailwind,pinia,graphql" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,astro,vite,tauri,tailwind,pinia,graphql" />
 </p>
 
 ### Backend Technologies
@@ -38,7 +38,7 @@
 ### Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,bun,jest,vitest" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,bun,vitest" />
 </p>
 
 ### Dev Ops
