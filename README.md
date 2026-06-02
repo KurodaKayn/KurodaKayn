@@ -26,13 +26,13 @@
 ### Frontend Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,astro,vite,tauri,tailwind,pinia,graphql" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,astro,vite,tauri,tailwind,graphql" />
 </p>
 
 ### Backend Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,nodejs,nestjs,py,postgres,mysql,prisma" />
+  <img src="https://skillicons.dev/icons?i=go,echo,nodejs,nestjs,py,postgres,mysql,prisma" />
 </p>
 
 ### Development Tools
