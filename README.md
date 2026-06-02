@@ -32,13 +32,13 @@
 ### Backend Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,elysia,nodejs,nestjs,py,postgres,mysql,prisma" />
+  <img src="https://skillicons.dev/icons?i=go,elysia,nodejs,nestjs,py,postgres,redis,prisma" />
 </p>
 
 ### Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,bun,vitest" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,pnpm,figma,bun,vitest" />
 </p>
 
 ### Dev Ops
