@@ -32,7 +32,7 @@
 ### Backend Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,gin,nodejs,nestjs,py,postgres,mysql,prisma" />
+  <img src="https://skillicons.dev/icons?i=go,elysia,nodejs,nestjs,py,postgres,mysql,prisma" />
 </p>
 
 ### Development Tools
