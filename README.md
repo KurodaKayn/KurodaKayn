@@ -1,4 +1,4 @@
-## <img src="./assets/icons/user.svg" alt="User" width="28" height="28" align="center" /> About Me
+## <sub><img src="./assets/icons/user.svg" alt="User" width="28" height="28" /></sub> About Me
 
 - My name is **Kayn**.
 - I am a **software engineering student**.
@@ -8,7 +8,7 @@
 
 ---
 
-## <img src="./assets/icons/star.svg" alt="Star" width="28" height="28" align="center" /> GitHub Highlights
+## <sub><img src="./assets/icons/star.svg" alt="Star" width="28" height="28" /></sub> GitHub Highlights
 
 <div align="center">
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=KurodaKayn&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
@@ -21,7 +21,7 @@
 
 ---
 
-## <img src="./assets/icons/layers.svg" alt="Layers" width="28" height="28" align="center" /> Tech Stack
+## <sub><img src="./assets/icons/layers.svg" alt="Layers" width="28" height="28" /></sub> Tech Stack
 
 ### Frontend Technologies
 
@@ -55,6 +55,6 @@
 
 ---
 
-## <img src="./assets/icons/globe.svg" alt="Globe" width="28" height="28" align="center" /> Blog
+## <sub><img src="./assets/icons/globe.svg" alt="Globe" width="28" height="28" /></sub> Blog
 
 If you'd like to learn more about me, you can open this link: [https://kurodakayn.xyz](https://kurodakayn.xyz)
