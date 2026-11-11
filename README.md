@@ -1,7 +1,8 @@
 ## <sub><img src="./assets/icons/user.svg" alt="User" width="28" height="28" /></sub> Profile
 
 
-<img width="1670" height="941" alt="Profile" src="https://github.com/user-attachments/assets/82e24c98-a85f-4c20-a965-1b06fc4744a5" />
+<img width="1670" height="941" alt="image" src="https://github.com/user-attachments/assets/0ccd15cc-499d-424e-bbb3-7a3d846a7cee" />
+
 
 
 ---
