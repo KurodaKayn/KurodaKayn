@@ -1,10 +1,7 @@
-## <sub><img src="./assets/icons/user.svg" alt="User" width="28" height="28" /></sub> About Me
+## <sub><img src="./assets/icons/user.svg" alt="User" width="28" height="28" /></sub> Profile
 
-- My name is **Kayn**.
-- I am a **software engineering student**.
-- Programming is not just about study & work, it's my passion.
-- I enjoy learning the most cutting-edge and advanced technologies.
-- I wanna become a **polymath programmer** instead of a Full Stack Developer. This means that while I am committed to diving deep into one specific area, I also want to learn across the entire programming landscape. Because I refuse to stay at the surface.
+
+<img width="422" height="162" alt="image" src="https://github.com/user-attachments/assets/59117c2c-a294-48a0-91eb-33179686748c" />
 
 ---
 
